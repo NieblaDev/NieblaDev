@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niebla 🇨🇱</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niebladev&label=Profile%20views&color=0e75b6&style=flat" alt="niebladev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=niebladev&label=Profile%20views&color=0e75b6&style=flat" alt="niebladev" /> </p>
 
 - 🔭 I’m currently working on [PDInt at Universidad del Bio - Bio](https://github.com/Vraeh/PDInt)
 
