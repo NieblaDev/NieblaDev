@@ -14,8 +14,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/renato acosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renato acosta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/niebladev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niebladev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/niebladev" target="blank"><img align="center" src="https://creatorspace.imgix.net/users/clo1y2o3o041sp301fyafp54b/d0tCL7xOmoht2bCE-_0db576e1-c2c5-4a03-a2bc-652c1b25563d.jfif?w=300&h=300" alt="niebladev" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@NieblaDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niebladev" height="30" width="40" /></a>
+<a href="https://bento.me/rvalentino" target="blank"><img align="center" src="https://creatorspace.imgix.net/users/clo1y2o3o041sp301fyafp54b/d0tCL7xOmoht2bCE-_0db576e1-c2c5-4a03-a2bc-652c1b25563d.jfif?w=300&h=300" alt="niebladev" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
