@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niebla </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niebladev&label=Profile%20views&color=0e75b6&style=flat" alt="niebladev" /> </p>
 
-- 🔭 I’m currently working on [**PDInt at Universidad del Bio - Bio**](https://github.com/Vraeh/PDInt)
+- 📚 I'm sutdying **Computer Civil Engineering** at the [**University of Bío-Bío**](https://www.ubiobio.cl/w/), Chile.
 
-- 🌱 I’m currently learning whatever I can to be a **programming beast**.
+- 🔭 I’m currently working on [**PDInt Robotics Club.**](https://github.com/Vraeh/PDInt)
+
+- 🌱 I’m currently learning whatever I can to be a **programming beast.**
 
 - 💬 Ask me about **OOP in Java, Python & Robotics.**
 
